@@ -1,0 +1,7 @@
+{
+  "name": "Nova AI Studio",
+  "description": "แอปผู้ช่วย AI อัจฉริยะ ถาม-ตอบ เขียนโค้ด สร้างไฟล์ สร้างรูป และสร้างวีดีโอ รองรับคำสั่งเสียงภาษาไทย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
